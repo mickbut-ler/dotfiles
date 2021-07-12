@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
-	name = Mick Butker
+	email = mickbutlerr@gmail.com
+	name = Mick Butler
