@@ -50,8 +50,8 @@
 [pull]
   rebase = false
 [user]
-	email = 80526334+mickbut-ler@users.noreply.github.com
-	name = Mick Butler
+	email = mickbutlerr@gmail.com
+	name = mick
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
