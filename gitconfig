@@ -51,7 +51,7 @@
   rebase = false
 [user]
 	email = mickbutlerr@gmail.com
-	name = mick
+	name = mick butler
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
